@@ -5,7 +5,7 @@
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Python;Frontend+Developer;React%20|%20Gatsby%20|%20Next+;DL%20|%20AI%20|%20ML%20Applications;Desarrollo%20Web%20UNER%202024&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Python;FullStack+Developer;React%20|%20Gatsby%20|%20Next+;DL%20|%20AI%20|%20ML%20Applications;Desarrollo%20Web%20UNER%202024&center=true&width=380&height=45">
 	</a>
 </p>
 
