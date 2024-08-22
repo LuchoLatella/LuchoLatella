@@ -1,5 +1,4 @@
 
-<<h1 align="center"> Hola 👋, soy Lucho </h1>
 
 <a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/LuchoLatella/LuchoLatella/blob/main/Logo%20Latella.jpg"/></a>
 
